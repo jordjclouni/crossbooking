@@ -91,5 +91,5 @@ flask run
 login for user: arthur@gmail.com
 password for user: Aboba333$
 
-login for user: admin@example.com
-password for user: password
+login for admin: admin@example.com
+password for admin: password
