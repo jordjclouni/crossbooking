@@ -5,7 +5,7 @@
 2. Navigate to the project directory:
 
 ```bash
-cd react-python-tutorial
+cd crossbooking
 ```
 
 3. Navigate to the backend directory:
